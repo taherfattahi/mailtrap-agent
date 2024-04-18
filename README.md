@@ -1,4 +1,4 @@
-# A Simple MailTrap Agent with LangChain
+# MailTrap Agent with LangChain
 
 ## Summary
 This script serves as a straightforward MailTrap agent designed to interact with the Mailtrap library through prompts.
