@@ -6,10 +6,9 @@ Example Prompt:
 `Please send an email to taherfattahi11@gmail.com with the subject "You are awesome!" 
 and the body of the email should be: "Congratulations on successfully sending a test email with Mailtrap!"`
 
+- <a href="https://mailtrap.io">MailTrap (Email Delivery Platform)</a>
 
-
-<a href="https://mailtrap.io">MailTrap (Email Delivery Platform)</a>
-<a href="https://github.com/railsware/mailtrap-python">Official Mailtrap Python client</a>
+- <a href="https://github.com/railsware/mailtrap-python">Official Mailtrap Python client</a>
 
 ## Getting started
 Clone the repository, set up the virtual environment, and install the required packages
