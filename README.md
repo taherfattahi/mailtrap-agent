@@ -10,6 +10,8 @@ and the body of the email should be: "Congratulations on successfully sending a 
 
 - <a href="https://github.com/railsware/mailtrap-python">Official Mailtrap Python client</a>
 
+I wrote an article that walks through how to build out the below script <a href="https://medium.com/@taherfattahi11/building-a-mailtrap-agent-platform-with-agent-tools-in-langchain-cc756073108a">Can read that here</a>
+
 ## Getting started
 Clone the repository, set up the virtual environment, and install the required packages
 
